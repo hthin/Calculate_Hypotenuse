@@ -14,7 +14,7 @@ public class Hipotenus {
 
         double k3 = Math.sqrt( (k1 * k1) + (k2 * k2));
 
-        System.out.println("Hipotenüs = " + (int) k3);
+        System.out.println("Hipotenüs => " + (int) k3);
 
 
 
